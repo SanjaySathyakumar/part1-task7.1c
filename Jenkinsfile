@@ -1,3 +1,4 @@
+// jenkins automatically detects through pollling
 pipeline {
     agent any
 
